@@ -1,0 +1,49 @@
+.nav-item-custom:hover{
+    background-color: #cc6119;
+}
+
+.nav-link{
+    color: #7f8284!important;
+}
+
+.nav-link:hover{
+    color: white!important;
+}
+
+.carousel-inner{
+    max-height: 600px!important;
+    overflow: hidden;
+}
+
+.carousel-item{
+    max-height: 100%;
+    margin: auto;
+}
+
+
+.carousel-image{
+    height: fit-content;
+    width: fit-content;
+}
+
+.black-spacer{
+    height: 60px;
+    background-color: #232628;
+    margin: 0 0 15px 0;
+}
+.color-white{
+    font-size: 20px;
+    height: 60px;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+    font-weight: 700;
+}
+
+.padding-bottom{
+    padding-bottom: 50px;
+}
+
+.padding-0{
+    padding: 0;
+}
